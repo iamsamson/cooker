@@ -62,6 +62,7 @@ def getPiclink(url):
         except:
             pass
 
+# add git comment second time
 
 if __name__ == '__main__':
     pageNum = input(u'请输入页码：')
