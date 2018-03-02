@@ -29,7 +29,7 @@ def getPage(pageNum):
         urls.append(i)
         print(i)
     return urls
-
+# check git 
 
 # 图片链接列表， 标题
 # url是详情页链接
