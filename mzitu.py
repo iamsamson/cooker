@@ -69,3 +69,6 @@ if __name__ == '__main__':
     p = getPage(pageNum)
     with ThreadPool(4) as pool:
         pool.map(getPiclink, p)    
+
+#add last comment
+
